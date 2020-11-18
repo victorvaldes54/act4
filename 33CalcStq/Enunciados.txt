@@ -1,0 +1,21 @@
+rm.- Dada la siguiente reacción química:dióxido de carbono más hidróxido sódico para dar carbonato sódico y agua. Calcula el volumen ocupa el dióxido de carbono, medido en condiciones normales, que se obtiene a partir de 120g de hidróxido sódico. Datos: C012;O=16;Na=23
+
+ru.- -El cinc reacciona con el ácido clorhídrico formando cloruro de cinc e hidrógeno gas. Si hacemos reaccionar  6,0 g de ácido. ¿Cuántos gramos de cinc reaccionan? DATOS: Zn=65,4;H=1;Cl=35,5
+
+rr.- El cinc reacciona con el ácido clorhídrico formando cloruro de cinc e hidrógeno gas. Si hacemos reaccionar  6,0 g de ácido. ¿Cuál sería el volumen de H2 obtenido si se mide en c.n.? DATOS: Zn=65,4;H=1;Cl=35,5
+
+rc.- Cuántos gramos de dicloruro de manganeso se obtienen cuando reaccionan 7,5g de ácido clorhídrico con óxido de manganeso(II)? También se obtiene agua DATOS: Mn=54,9;Cl=35,5;H=1;O=16
+
+ri.- ¿Qué volumen de agua se obtendrá cuando reaccionen, según la ecuación anterior, 7,5 g de ácido clorhídrico, medidos en c.n.?
+
+re.- El nitrato de plomo(II) reacciona con el yoduro de potasio para dar un precipitado de color amarillo intenso de yoduro de plomo(II). Calcula cuantos gramos de yoduro de plomo(II) se obtienen cuando se hacen reaccionar 15,0 g de nitrato de plomo(II) DATOS:N=14;Pb=207,2;I=126,9;K=39,1;O=16
+
+rl.- 10,3 g de cinc  reaccionan con ácido sulfúrico para dar sulfato de cinc e hidrógeno. Calcula la cantidad de sulfato de zinc obtenida. DATOS:Zn=65,4;S=32;O=16;H=1
+
+ra.- El pentano, C5H12, arde en presencia de oxígeno, produciendo dióxido de carbono y agua
+Calcula el volumen de oxígeno (medido a 25ºC y 700mmHg) que necesitamos para quemar 216 g de pentano
+DATOS: C=12;O=16;H=1
+
+rg- El pentano, C5H12, arde en presencia de oxígeno, produciendo dióxido de carbono y agua. ¿Cuántos gramos de pentano necesitamos para obtener 660 g de dióxido de carbono?
+
+ro- Dada la ecuación química: dióxido de carbono más hidróxido sódico para dar carbonato sódico y agua. Calcula la masa de agua que se obtiene si reaccionan 100 g de NaOH. DATOS:Na=23;C=12;O=16;H=1

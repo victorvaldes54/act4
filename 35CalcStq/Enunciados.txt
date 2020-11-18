@@ -1,0 +1,20 @@
+05CalcStq
+rm.- El metano arde con oxígeno produciendo dióxido de carbono y agua. Si se queman 2 kg de metano calcula los gramos de oxígeno necesarios. C=12;H=1;O=16
+
+ru.- Se quema etano y se obtienen 2000 litros de dióxido de carbono medidos en condiciones normales (C.N.). Calcula los gramos de etano que ardieron.  C=12;O=16;H=1
+
+rr.- El nitrógeno reacciona con el hidrógeno para producir amoniaco. Los reactivos y los productos están en estado gaseoso. En un recipiente que contiene 100 gramos de nitrógeno .Calcula el volumen de amoniaco que se produce medido a 720 mm de Hg y 22ºC.  N=14;H=1
+
+rc.- El aluminio reacciona con el ácido clorhídrico produciendo cloruro de aluminio y desprendiendo hidrógeno gaseoso.Calcula la cantidad de aluminio que se necesita para reaccionar completamente con 80 ml de una disolución de ácido clorhídrico 0 ́5 M.    H=1; Cl=35,5; Al=27
+
+ri.- El aluminio reacciona con el ácido clorhídrico produciendo cloruro de aluminio ydesprendiendo hidrógeno gaseoso. Calcula el volumen que ocupa el hidrógeno desprendido en condiciones normales.H=1; Cl=35,5; Al=27
+
+re.- El carbonato de calcio se descompone en óxido de calcio y dióxido de carbono. Partiendo de 8 kg de carbonato de calcio con una riqueza del 60 %, calcula los gramos de óxido de calcio producidos.Ca=40,1 O=16; C=12
+
+rl.- El carbonato de calcio se descompone en óxido de calcio y dióxido de carbono. Partiendo de 8 kg de carbonato de calcio con una riqueza del 60 %, calcula el volumen que ocupa el dióxido de carbono desprendido medido a 1,5 atm y a 18ºC. Ca=40,1 O=16; C=12
+
+ra.- Se queman 2,5 kg de butano. Suponiendo un rendimiento del 85 % para la reacción, determina el volumen que ocupa el dióxido de carbono producido medido a 730 mm de Hg y 20ºC. C=12;H=1;O=16
+
+rg- Se queman 4 kg de etanol. Determina el volumen de aire en condiciones normales necesario para quemar todo el etanol. Dato: El aire contiene un 20 % en volumen de oxígeno. C=12;H=1;O=16
+
+ro- El sulfuro de cinc reacciona con el oxígeno para producir óxido de cinc y dióxido de azufre. ¿Cuántos kilogramos de blenda (mineral cuyo principal componente es el sulfuro de cinc), con una riqueza del 60 %, se necesitan para obtener 1000 gramos de productos? S=32;O=16;H=1;Zn=65,4
